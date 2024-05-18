@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ilakkanam_tamil-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="ilakkanam_tamil-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="ilakkanam_tamil.jvmMain" />
+    </root>
+  </artifact>
+</component>
